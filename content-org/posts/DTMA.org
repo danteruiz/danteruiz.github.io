@@ -1,0 +1,17 @@
+# main.org file
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: ./posts/
+
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: Don't Throw Me Away - this is a test
+
+* Emacs
+All posts in here will have a category set to /emacs/
+* TODO writing Hugo blog in Org
+
+
+* Footnotes
+* COMMENT Local Variables :ARCHIVE:...
+  SCHEDULED: <2021-04-25 Sun>
