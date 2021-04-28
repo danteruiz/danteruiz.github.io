@@ -1,0 +1,13 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./
+
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: About
+
+#+HUGO_TAGS: hugo org
+
+* Footnotes
+* COMMENT Local Variables :ARCHIVE:...
+  SCHEDULED: <2021-04-25 Sun>
