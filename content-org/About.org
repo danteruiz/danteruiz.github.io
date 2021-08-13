@@ -8,6 +8,8 @@
 
 #+HUGO_TAGS: hugo org
 
+My name is Dante, and I'm a software engineer. I have worked in the virtual reality and cryptography industry.
+
 * Footnotes
 * COMMENT Local Variables :ARCHIVE:...
-  SCHEDULED: <2021-04-25 Sun>
+  SCHEDULED: <2021-09-25 Sun>

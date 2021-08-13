@@ -1,7 +1,7 @@
 baseURL = "https://danteruiz.github.io/"
 languageCode = "en-us"
 title = "Dante Ruiz"
-theme = "friend-ng"
+theme = "hermit"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -10,7 +10,7 @@ theme = "friend-ng"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Exploration in the art of programming and other stuff"
 
 [taxonomies]
     category = "blog"
@@ -34,20 +34,20 @@ theme = "friend-ng"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name       = "About"
+  #   url        = "/about"
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
-
-[[menu.main]]
-    identifier = "work"
-    name       = "Work"
-    url        = "/main"
+  # [[menu.main]]
+  #   identifier = "blog"
+  #   name       = "Blog"
+  #   url        = "/posts"
+  # 
+  # [[menu.main]]
+  #   identifier = "work"
+  #   name       = "Work"
+  #   url        = "/main"
 
 [[params.social]]
    name = "github"
