@@ -26,7 +26,7 @@ theme = "friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/"
+      logoText = "~/DanteRuiz"
       logoHomeLink = "/"
     # or
     #
@@ -39,10 +39,10 @@ theme = "friend-ng"
     name       = "About"
     url        = "/about"
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+   # [[menu.main]]
+   #  identifier = "blog"
+   #  name       = "Blog"
+   #  url        = "/posts"
 
 [[menu.main]]
     identifier = "work"

@@ -6,7 +6,8 @@
 
 #+TITLE: About
 
-#+HUGO_TAGS: hugo org
+My name is Dante
+
 
 * Footnotes
 * COMMENT Local Variables :ARCHIVE:...
